@@ -21,8 +21,8 @@
 
 java -jar wnmap-0.0.1-SNAPSHOT.jar
 
->注：上述命令可正常启动项目，但是路由追踪功能无法正常运行
->下载需要的IP地址库至相同路径下重启系统便可正常使用路由追踪部分。
+>注：上述命令可正常启动项目，但是路由追踪功能无法正常使用。
+>需要下载IP地址库至相同路径下重启系统。
 > - [cities500.txt](http://download.geonames.org/export/dump/cities500.zip)(geonames项目，提供地名对应的经纬度)
 > - [GeoLite2-City.mmdb](https://dev.maxmind.com/geoip/geoip2/geolite2/)(maxmind公司提供的IP位置库，国内IP不准)
 > - [ip2region.db](https://github.com/lionsoul2014/ip2region/blob/master/data/ip2region.db)(github用户lionsoul2014的ip2region项目，提供国内IP和位置信息，国外IP不准)
@@ -43,4 +43,6 @@ java -jar wnmap-0.0.1-SNAPSHOT.jar
 
 ![](img/1.png)
 
-[更多](img/img.md)
+[更多截图](img/img.md)
+
+
