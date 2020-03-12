@@ -17,9 +17,10 @@
 
 ### 启动方法
 
-- 下载jar包[地址](https://github.com/Alfriend-xing/wnmap/releases/download/0.0.1/wnmap-0.0.1-SNAPSHOT.jar)
+- 安装 [nmap](https://nmap.org/) 并设置环境变量
+- 下载jar包 [地址](https://github.com/Alfriend-xing/wnmap/releases/download/0.0.1/wnmap-0.0.1-SNAPSHOT.jar)
 
-- `java -jar wnmap-0.0.1-SNAPSHOT.jar`
+- `java -jar wnmap-0.0.1-SNAPSHOT.jar` (linux和windows均可)
 
 - 之后可以访问 `http://localhost:8080/index.html` 登陆操作，账号密码会显示在页面上，管理员和访客有不同权限。
 
