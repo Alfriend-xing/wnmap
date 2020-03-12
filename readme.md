@@ -17,15 +17,17 @@
 
 ### 启动方法
 
-下载jar包[地址]()
+下载jar包[地址](https://github.com/Alfriend-xing/wnmap/releases/download/0.0.1/wnmap-0.0.1-SNAPSHOT.jar)
 
 java -jar wnmap-0.0.1-SNAPSHOT.jar
 
 >注：上述命令可正常启动项目，但是路由追踪功能无法正常运行
 >下载需要的IP地址库至相同路径下重启系统便可正常使用路由追踪部分。
-> - [文件1]()
-> - [文件2]()
-> - [文件3]()
+> - [cities500.txt](http://download.geonames.org/export/dump/cities500.zip)(geonames项目，提供地名对应的经纬度)
+> - [GeoLite2-City.mmdb](https://dev.maxmind.com/geoip/geoip2/geolite2/)(maxmind公司提供的IP位置库，国内IP不准)
+> - [ip2region.db](https://github.com/lionsoul2014/ip2region/blob/master/data/ip2region.db)(github用户lionsoul2014的ip2region项目，提供国内IP和位置信息，国外IP不准)
+>> 上述文件都是 ip-地理位置 的免费解决方案，均可以免费下载，因为文件比较大所以没有随本项目一起提供，有需要的朋友自行下载吧。
+
 
 ### 其他资源
 
