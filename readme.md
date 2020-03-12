@@ -17,9 +17,11 @@
 
 ### 启动方法
 
-下载jar包[地址](https://github.com/Alfriend-xing/wnmap/releases/download/0.0.1/wnmap-0.0.1-SNAPSHOT.jar)
+- 下载jar包[地址](https://github.com/Alfriend-xing/wnmap/releases/download/0.0.1/wnmap-0.0.1-SNAPSHOT.jar)
 
-java -jar wnmap-0.0.1-SNAPSHOT.jar
+- `java -jar wnmap-0.0.1-SNAPSHOT.jar`
+
+- 之后可以访问 `http://localhost:8080/index.html` 登陆操作，账号密码会显示在页面上，管理员和访客有不同权限。
 
 >注：上述命令可正常启动项目，但是路由追踪功能无法正常使用。
 >需要下载IP地址库至相同路径下重启系统。
