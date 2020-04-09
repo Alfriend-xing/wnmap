@@ -1,6 +1,6 @@
 # Wnmap
 
-使用web控制nmap进行扫描
+一个调用nmap进行资产发现的web应用
 
 
 ### 基本功能
