@@ -34,7 +34,7 @@
 
 ### 其他资源
 
-本项目的用到的开源项目有：
+本项目用到的开源项目有：
 
 - 前端部分：react, antd, leaflet, recharts
 - 后端部分：spring boot, security, data; nmap4j, icmp4j
